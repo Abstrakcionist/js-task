@@ -1,0 +1,11 @@
+html{
+    background-color: gray;
+}
+table {
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+  }
