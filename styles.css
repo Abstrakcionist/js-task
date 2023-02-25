@@ -1,9 +1,28 @@
 html{
-    background-color: gray;
+    background-color: rgb(53, 54, 58);
 }
+
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+div{
+  margin-left: 15px;
+}
+
+p{
+    margin-top: 0;
+    position: fixed;
+    color: white;
+    font-size: 24px;
+}
+
 table {
     table-layout: fixed;
     border-collapse: collapse;
+    color: rgb(159, 114, 218);
 }
 
 td {
