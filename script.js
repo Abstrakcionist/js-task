@@ -1,16 +1,3 @@
-/*let thead = document.createElement('thead');
-let tbody = document.createElement('tbody');
-let row = document.createElement('tr');
-let data = document.createElement('td');
-
-table.appendChild(tbody);
-
-document.body.appendChild(table);
-data.innerHTML = 'f'
-row.appendChild(data)
-tbody.appendChild(row)*/
-
-
 //создание рандомного числа
 function getRandomNumber(min, max) {
     return Math.round(Math.random() * ((max + 1) - min) + min);
