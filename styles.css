@@ -28,3 +28,9 @@ table {
 td {
     border: 1px solid black;
 }
+
+
+tr:hover{
+    background-color: silver;
+    transition: 0.2s;
+}
